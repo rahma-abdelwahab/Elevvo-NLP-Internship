@@ -4,7 +4,7 @@ Welcome to the **Natural Language Processing (NLP) Projects Repository** created
 
 ---
 
-## 📌 Internship Overview
+## Internship Overview
 
 As part of the Elevvo Internship Program, I completed a series of **NLP-focused projects** that demonstrate foundational to intermediate-level natural language processing techniques.
 
@@ -19,7 +19,7 @@ This repository contains **6 NLP tasks** organized across different domains — 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── Task_1_Sentiment_Analysis_on_Product_Reviews.ipynb  
@@ -33,9 +33,9 @@ This repository contains **6 NLP tasks** organized across different domains — 
 
 ---
 
-## 📝 Task Details
+## Task Details
 
-### 🔹 Task 1: Sentiment Analysis on Product Reviews
+###  Task 1: Sentiment Analysis on Product Reviews
 
 * **Dataset**: Amazon Product Reviews / IMDb Reviews (Kaggle).
 * **Objective**: Classify customer reviews as **positive, negative, or neutral**.
@@ -52,7 +52,7 @@ This repository contains **6 NLP tasks** organized across different domains — 
 
 ---
 
-### 🔹 Task 2: News Category Classification
+###  Task 2: News Category Classification
 
 * **Dataset**: AG News dataset.
 * **Objective**: Classify news articles into **World, Sports, Business, and Sci/Tech** categories.
@@ -66,7 +66,7 @@ This repository contains **6 NLP tasks** organized across different domains — 
 
 ---
 
-### 🔹 Task 3: Fake News Detection
+###  Task 3: Fake News Detection
 
 * **Dataset**: Kaggle Fake News dataset.
 * **Objective**: Detect whether a given news article is **real or fake**.
@@ -80,7 +80,7 @@ This repository contains **6 NLP tasks** organized across different domains — 
 
 ---
 
-### 🔹 Task 4: Named Entity Recognition (NER)
+###  Task 4: Named Entity Recognition (NER)
 
 * **Dataset**: CoNLL-2003 English Dataset.
 * **Objective**: Identify entities such as **Person, Organization, Location, Date**.
@@ -95,7 +95,7 @@ This repository contains **6 NLP tasks** organized across different domains — 
 
 ---
 
-### 🔹 Task 5: Topic Modeling on News Articles
+###  Task 5: Topic Modeling on News Articles
 
 * **Dataset**: BBC News Articles dataset.
 * **Objective**: Discover hidden **topics** within the articles.
@@ -112,7 +112,7 @@ This repository contains **6 NLP tasks** organized across different domains — 
 
 ---
 
-### 🔹 Task 6: Question Answering with Transformers
+###  Task 6: Question Answering with Transformers
 
 * **Dataset**: **SQuAD v1.1 (Stanford Question Answering Dataset)**.
 * **Objective**: Build a **Question Answering (QA) system** using Transformer-based models.
